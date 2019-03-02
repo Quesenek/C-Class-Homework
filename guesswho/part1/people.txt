@@ -1,0 +1,22 @@
+Jane	black	straight	female	yes	brown	no
+Bob	brown	curly		male	no	blue	yes
+Bill	blonde	straight	male	no	brown	yes
+Sue	brown	curly		female	no	brown	yes
+John	blonde	straight	male	yes	brown	yes
+Jack	red	straight	male	no	green	yes
+Nancy	brown	straight	female	no	brown	no
+Amy	brown	straight	female	yes	blue	yes
+Sam	blonde	curly		male	no	brown	yes
+Beth	black	straight	female	no	brown	yes
+Joe	brown	straight	male	no	brown	yes
+Lisa	brown	curly		female	no	brown	no
+Eric	red	straight	male	yes	blue	yes
+Peter	blonde	straight	male	no	brown	yes
+Tom	brown	straight	male	no	brown	no
+Alex	black	straight	male	no	blue	no
+Ann	red	curly		female	yes	brown	yes
+Mary	black	curly		female	yes	brown	yes
+Emily	brown	straight	female	no	brown	yes
+Kim	brown	straight	female	no	green	yes
+
+
